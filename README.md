@@ -1,3 +1,4 @@
 # PythonCapstone
 
-Welcome to the Python for Everybody Capstone project from Coursera
+Retrieving, Processing, and Visualizing Data with Python
+
