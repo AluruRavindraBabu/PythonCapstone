@@ -1,0 +1,14 @@
+# Linux basic commands
+
+1. pwd --> print working directory 
+2. ls --> list out all files and directories
+3. mkdir --> Make Directory ( To create a directory / directories)
+4. cd --> Change directory
+5. touch --> To create a new empty file
+6.  rm --> to remove a file
+7. cal --> To display current moth caledar
+8. date --> Current date and time
+9. help --> list of available commands
+10. Clear --> To clear terminal (console or screen)
+11. exit --> logout session
+12. hello --> 
