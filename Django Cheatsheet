@@ -1,30 +1,30 @@
 The below are frequent and common commands in Django
 
-# Create a new project
+#Create a new project
   
     django-admin startproject <Project Name>
   
- # Add application to project  (be there in project folder)
+ #Add application to project  (be there in project folder)
     
     python manage.py startapp <Application Name>
  
- # Start the server to run your applicaiton
+ #Start the server to run your applicaiton
  
      python manage.py runserver
      
- # Creating Migrations  -->
+ #Creating Migrations  -->
         
         python manage.py makemigrations
         
- # Create Migrate (to create database and tables)
+ #Create Migrate (to create database and tables)
  
         python manage.py migrate
         
- # Creating super user 
+ #Creating super user 
   
     python manage.py createsuperuser
  
- # Show the Shell 
+ #Show the Shell 
   
     python manage.py shell
     
